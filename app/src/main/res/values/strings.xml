@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MSR završni ispit</string>
+    <string name="z1_naziv">1. zadatak</string>
+    <string name="z2_naziv">2. zadatak</string>
+    <string name="z3_naziv">3. zadatak</string>
+    <string name="gumb_baci">Baci kocke</string>
+    <string name="labela1">Id</string>
+    <string name="lab_ciljna">Ime</string>
+    <string name="gumb_izracun">Obrada</string>
+    <string name="udaljenost">Udaljenost: %.2f. km</string>
+    <string name="lati">lat: %.7f</string>
+    <string name="longi">long: %.7f</string>
+</resources>
