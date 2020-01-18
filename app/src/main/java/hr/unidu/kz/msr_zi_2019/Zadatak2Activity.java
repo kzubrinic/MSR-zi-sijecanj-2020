@@ -31,7 +31,7 @@ public class Zadatak2Activity extends AppCompatActivity implements SensorEventLi
         tId = findViewById(R.id.tId);
         tIme = findViewById(R.id.tIme);
         gumb = findViewById(R.id.gumb);
-        setTitle("Drugi zadatak");
+        setTitle("Drugi zadatak :)");
         //Get an instance of SensorManager//
 
         proximitySensorManager = (SensorManager) getSystemService(

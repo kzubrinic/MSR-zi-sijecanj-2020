@@ -39,9 +39,4 @@
         android:onClick="izracunaj"
         android:text="@string/gumb_izracun" />
 
-    <TextView
-        android:id="@+id/lUdaljenost"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
-
 </LinearLayout>
